@@ -1,0 +1,125 @@
+🧩 **VISÃO DO DIA A DIA**  
+
+Como é o trabalho de um(a) Cientista de Dados:  
+- Coletar e limpar dados de diferentes fontes  
+- Explorar e analisar dados para gerar insights  
+- Construir modelos estatísticos e de machine learning  
+- Comunicar resultados com dashboards e relatórios  
+- Trabalhar em conjunto com áreas de negócio para tomada de decisão  
+
+---
+
+🧠 **MAPA DE SKILLS**  
+
+**CORE SKILLS (essenciais):**  
+- Python para análise e modelagem  
+- SQL para manipulação de dados  
+- Estatística e probabilidade  
+
+**NICE-TO-HAVE (complementares):**  
+- Visualização de dados (Looker, Power BI)  
+- Engenharia de dados (ETL, pipelines)  
+
+**FERRAMENTAS E TECNOLOGIAS:**  
+- Python (pandas, scikit-learn)  
+- SQL (PostgreSQL, MySQL)  
+- Looker / Power BI  
+
+---
+
+📅 **ROADMAP DE 90 DIAS**  
+
+**ADAPTADO PARA: 10h/semana**  
+
+**MÊS 1 - FUNDAMENTOS**  
+
+**SEMANA 1-2:**  
+- Revisar Python para análise de dados (pandas, numpy)  
+- Praticar consultas SQL (SELECT, JOIN, GROUP BY)  
+
+**SEMANA 3-4:**  
+- Estatística aplicada: média, variância, correlação  
+- Exercícios práticos com datasets públicos  
+
+**MÊS 2 - PRÁTICA**  
+
+**SEMANA 5-6:**  
+- Construir ETL simples com Python e SQL  
+- Criar dashboards básicos no Looker ou Power BI  
+
+**SEMANA 7-8:**  
+- Introdução a Machine Learning (regressão linear, classificação)  
+- Treinar modelos com scikit-learn  
+
+**MÊS 3 - PORTFÓLIO E PREPARAÇÃO**  
+
+**SEMANA 9-10:**  
+- Projeto de portfólio completo (pipeline + análise + visualização)  
+- Documentar código e resultados  
+
+**SEMANA 11-12:**  
+- Simulação de entrevistas técnicas  
+- Revisão de conceitos avançados (IA, ML)  
+
+---
+
+🚀 **PROJETO DE PORTFÓLIO**  
+
+**PROJETO:** Análise de Vendas com Machine Learning  
+
+**O QUE FAZER:**  
+Criar um pipeline que coleta dados de vendas, processa, gera insights e aplica um modelo preditivo para estimar vendas futuras.  
+
+**ENTREGÁVEIS:**  
+- Script ETL em Python + SQL  
+- Dashboard interativo com Looker/Power BI  
+- Modelo de previsão com scikit-learn  
+
+**CRITÉRIOS DE ACEITAÇÃO:**  
+- Dados limpos e organizados  
+- Dashboard funcional e claro  
+- Modelo com métricas de avaliação (RMSE, accuracy)  
+
+**DICA:** Use datasets públicos de e-commerce ou vendas para simular cenários reais.  
+
+---
+
+💬 **ROTEIRO DE ENTREVISTAS**  
+
+**PERGUNTA 1:** Qual a diferença entre JOIN e UNION no SQL?  
+**COMO RESPONDER:** Explique que JOIN combina tabelas com base em chaves, enquanto UNION empilha resultados de consultas.  
+
+**PERGUNTA 2:** Como você lidaria com dados faltantes?  
+**COMO RESPONDER:** Cite técnicas como remoção, imputação por média/mediana ou uso de modelos específicos.  
+
+**PERGUNTA 3:** O que é overfitting em Machine Learning?  
+**COMO RESPONDER:** Explique que é quando o modelo aprende demais os dados de treino e perde capacidade de generalização.  
+
+**PERGUNTA 4:** Qual a diferença entre regressão e classificação?  
+**COMO RESPONDER:** Regressão prevê valores contínuos, classificação prevê categorias.  
+
+**PERGUNTA 5:** Como você comunicaria insights para um público não técnico?  
+**COMO RESPONDER:** Usaria visualizações simples, linguagem acessível e foco em impacto no negócio.  
+
+---
+
+🎓 **TRILHA DIO RECOMENDADA**  
+
+**TRILHA:** Bootcamp *Cientista de Dados com Python* (DIO)  
+
+**POR QUE ESSA TRILHA:**  
+Ela cobre Python, SQL, ETL e Machine Learning, exatamente os pontos que você precisa para crescer na carreira.  
+
+**PRÓXIMOS PASSOS:**  
+1. Acesse dio.me  
+2. Busque por "Cientista de Dados com Python"  
+3. Inscreva-se gratuitamente  
+4. Siga o cronograma junto com este roadmap  
+
+---
+
+✨ Seu plano está pronto!  
+
+Lembre-se: o mais importante é a **constância**, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.  
+
+Quer que eu detalhe mais o **projeto de portfólio** ou prefere que eu aprofunde no **roteiro de entrevistas**?
